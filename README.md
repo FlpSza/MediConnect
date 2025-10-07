@@ -737,7 +737,7 @@ Se você encontrar algum problema ou tiver dúvidas:
 
 - 🐛 [Reportar Bug](https://github.com/FlpSza/mediconnect/issues)
 - 💡 [Solicitar Feature](https://github.com/FlpSza/mediconnect/issues)
-- 📧 Email: suporte@mediconnect.com
+- 📧 Email: ofellipe2023@gmail.com
 - 💬 Discord: [Link do servidor](https://discord.gg/seu-servidor)
 
 ---
