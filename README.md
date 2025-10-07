@@ -735,8 +735,8 @@ SOFTWARE.
 
 Se você encontrar algum problema ou tiver dúvidas:
 
-- 🐛 [Reportar Bug](https://github.com/seu-usuario/mediconnect/issues)
-- 💡 [Solicitar Feature](https://github.com/seu-usuario/mediconnect/issues)
+- 🐛 [Reportar Bug](https://github.com/FlpSza/mediconnect/issues)
+- 💡 [Solicitar Feature](https://github.com/FlpSza/mediconnect/issues)
 - 📧 Email: suporte@mediconnect.com
 - 💬 Discord: [Link do servidor](https://discord.gg/seu-servidor)
 
@@ -746,8 +746,8 @@ Se você encontrar algum problema ou tiver dúvidas:
 
 **Desenvolvido com ❤️ para a comunidade médica**
 
-[![Star on GitHub](https://img.shields.io/github/stars/seu-usuario/mediconnect?style=social)](https://github.com/seu-usuario/mediconnect)
-[![Follow on GitHub](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/seu-usuario)
+[![Star on GitHub](https://img.shields.io/github/stars/FlpSza/mediconnect?style=social)](https://github.com/FlpSza/mediconnect)
+[![Follow on GitHub](https://img.shields.io/github/followers/FlpSza?style=social)](https://github.com/FlpSza)
 
 </div>
 
